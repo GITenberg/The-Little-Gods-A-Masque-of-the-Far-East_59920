@@ -1,0 +1,37 @@
+_repo: The-Little-Gods-A-Masque-of-the-Far-East_59920
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sarka, Charles N. (Charles Nicholas)
+    alias: Sarka, Charles Nicolas
+    birthdate: &id001 1879
+    deathdate: 1960
+    gutenberg_agent_id: '38636'
+    url: http://www.gutenberg.org/2009/agents/38636
+creator:
+  author:
+    agent_name: Thomas, Rowland
+    birthdate: *id001
+    gutenberg_agent_id: '50694'
+    url: http://www.gutenberg.org/2009/agents/50694
+description: ''
+gutenberg_issued: '2019-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59920'
+  lccn: 09006849
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Prologue: the Little Gods -- Fagan -- God''s Little Devils -- The
+  little man -- A little ripple of patriotism -- The superfalous man -- The Valley
+  of Sunshine and Shadow -- What Okimi learned -- Where there is no turning -- An
+  optimist -- This fortune -- Mcgennis''s promotion -- Epilogue.'
+title: 'The Little Gods: A Masque of the Far East'
+url: http://www.gutenberg.org/ebooks/59920
